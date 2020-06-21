@@ -9,6 +9,7 @@ gem 'thin'
 gem 'shotgun'
 gem 'pry'
 gem 'require_all'
+gem 'nokogiri', '~> 1.10', '>= 1.10.9'
 
 group :test do
   gem 'rspec'
